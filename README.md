@@ -14,7 +14,7 @@ Before generating an image, understand that the AI is not searching for an exist
 Open a free text-to-image tool such as Bing Image Creator, Adobe Firefly, or Canva AI in a web browser, and sign in with a Microsoft or Google account if required.
 ## Step 3: Writing a Simple First Prompt
 Type a short, clear description of the image to generate, for example:
-“A futuristic classroom with students using AI robots, digital art style.”
+“A cozy modern study room with a laptop, books, indoor plants, a sleeping cat, warm table lamp, large window overlooking a city skyline at sunset, peaceful atmosphere, soft golden lighting, photorealistic style..”
 ## Step 4: Generating and Reviewing the First Set of Images
 Click “Generate” and wait a few seconds while the tool produces a set of image options (usually 2 to 4). Review each option to see how the AI interpreted the prompt.
 ## Step 5: Refining the Prompt for a Better Result
@@ -27,7 +27,8 @@ Once satisfied with a generated image, click the download/save option on that im
 Record a short note on responsible use — avoid generating images of real identifiable people without consent, respect copyright when using outputs commercially, and always disclose when an image was AI-generated.
 ## SAMPLE OUTPUT SCREEN
 The screen below shows a sample text-to-image generator, with the prompt entered and four generated results ready to compare and save (shown here as placeholder thumbnails).
-<img width="520" height="384" alt="image" src="https://github.com/user-attachments/assets/78871ae6-6967-46e3-bf4e-ce8c2fc79581" />
+<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/e5bb3cad-9232-4727-bb4f-4a5784417518" />
+
 ## OUTPUT
 A set of AI-generated images produced from a written prompt, refined across two to three prompt iterations, with the final chosen image saved for use in the report.
 ## RESULT
